@@ -64,18 +64,18 @@ public class HomeController : Controller
         return View(hobbies);
     }
 
-    [HttpGet("Register")]
-    public IActionResult Register(){
+    // [HttpGet("Register")]
+    // public IActionResult Register(){
 
         
-        if(HttpContext.Session.GetInt32("userId") == null){
+    //     if(HttpContext.Session.GetInt32("userId") == null){
           
-              return View();
-            }
+    //           return View();
+    //         }
             
-        return RedirectToAction("hobbies");
+    //     return RedirectToAction("hobbies");
 
-    }
+    // }
 
     [HttpPost("Login")]
     public IActionResult LoginSubmit(LoginUser userSubmission)
@@ -181,9 +181,11 @@ public class HomeController : Controller
         return Redirect("hobbies/");
     }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-    }
+    // [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    // public IActionResult Error()
+    // {
+    //     return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    // }
 }
+
+

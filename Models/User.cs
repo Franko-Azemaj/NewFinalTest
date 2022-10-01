@@ -23,7 +23,6 @@ public class User
     public DateTime CreatedAt { get; set; } = DateTime.Now;
     public DateTime UpdatedAt { get; set; } = DateTime.Now;
      
-    public List<Hobby> CreatedHobby { get; set; } = new List<Hobby>(); 
     public List<Enthusiast> hobbyQePelqej { get; set; } = new List<Enthusiast>(); 
     
 
