@@ -8,53 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NewFinalTest
 build_property.RootNamespace = NewFinalTest
-build_property.ProjectDir = C:\Users\HP\Desktop\dojo assignments\C-Sharp\NewFinalTest\
+build_property.ProjectDir = c:\Users\HP\Desktop\NewFinalTest\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\dojo assignments\C-Sharp\NewFinalTest
+build_property.MSBuildProjectDirectory = c:\Users\HP\Desktop\NewFinalTest
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/Hobbies.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/Hobbies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb2JiaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/HobbiesDetailed.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/HobbiesDetailed.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb2JiaWVzRGV0YWlsZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/Index.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/LoginPartial.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/NewHobbies.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/NewBranch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdCcmFuY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/NewHobbies.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOZXdIb2JiaWVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Home/RegisterPartial.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Home/RegisterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3RlclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Shared/Error.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/_ViewImports.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/_ViewStart.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/dojo assignments/C-Sharp/NewFinalTest/Views/Shared/_Layout.cshtml]
+[c:/Users/HP/Desktop/NewFinalTest/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xm822e00eg
