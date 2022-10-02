@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Exam\\NewFinalTest\\NewFinalTest.csproj": {}
+    "c:\\Users\\HP\\Desktop\\NewFinalTest\\NewFinalTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Exam\\NewFinalTest\\NewFinalTest.csproj": {
+    "c:\\Users\\HP\\Desktop\\NewFinalTest\\NewFinalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Exam\\NewFinalTest\\NewFinalTest.csproj",
+        "projectUniqueName": "c:\\Users\\HP\\Desktop\\NewFinalTest\\NewFinalTest.csproj",
         "projectName": "NewFinalTest",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Exam\\NewFinalTest\\NewFinalTest.csproj",
+        "projectPath": "c:\\Users\\HP\\Desktop\\NewFinalTest\\NewFinalTest.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Exam\\NewFinalTest\\obj\\",
+        "outputPath": "c:\\Users\\HP\\Desktop\\NewFinalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
